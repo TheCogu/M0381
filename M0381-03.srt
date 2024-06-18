@@ -1,0 +1,3359 @@
+﻿1
+00:00:38,038 --> 00:00:38,873
+Muy bien.
+
+2
+00:00:42,168 --> 00:00:43,002
+No te muevas.
+
+3
+00:00:45,212 --> 00:00:46,172
+Aquí...
+
+4
+00:00:47,631 --> 00:00:48,466
+¡voy!
+
+5
+00:00:49,925 --> 00:00:51,302
+¡Timbre!
+
+6
+00:00:54,930 --> 00:00:55,765
+{\an8}¿Quién...?
+
+7
+00:00:55,848 --> 00:00:56,682
+{\an8}FRÍEME
+
+8
+00:00:56,974 --> 00:00:59,101
+¡Hola! ¿Pediste pollo frito,
+
+9
+00:00:59,185 --> 00:01:00,269
+pollo picante,
+
+10
+00:01:00,352 --> 00:01:02,104
+y pollo con salsa de soja?
+
+11
+00:01:02,980 --> 00:01:04,315
+No.
+
+12
+00:01:04,398 --> 00:01:05,733
+¿Pediste pollo?
+
+13
+00:01:06,484 --> 00:01:07,485
+¿Para qué?
+
+14
+00:01:07,568 --> 00:01:08,694
+Ven. Sigamos.
+
+15
+00:01:08,778 --> 00:01:09,987
+Me equivoqué.
+
+16
+00:01:11,071 --> 00:01:13,491
+Te vendo pollo frito, picante y con salsa.
+
+17
+00:01:13,574 --> 00:01:16,285
+Las papas fritas
+y la bebida te las regalo.
+
+18
+00:01:17,745 --> 00:01:19,747
+- Lo siento, pero...
+- ¡Escucha!
+
+19
+00:01:19,830 --> 00:01:21,916
+No pedimos nada. ¿Sí? Vete.
+
+20
+00:01:22,750 --> 00:01:24,335
+Un momento.
+
+21
+00:01:25,169 --> 00:01:27,004
+¿Pidieron sidra, no gaseosa?
+
+22
+00:01:27,671 --> 00:01:29,840
+Escucha, no pedimos nada.
+
+23
+00:01:29,924 --> 00:01:31,509
+Así que vete.
+
+24
+00:01:32,051 --> 00:01:33,552
+¿No pediste pollo?
+
+25
+00:01:33,636 --> 00:01:35,888
+Pero esta es la dirección.
+Apartamento 401.
+
+26
+00:01:35,971 --> 00:01:37,515
+No me importa. Vete.
+
+27
+00:01:37,598 --> 00:01:39,725
+Primero tengo que revisarlo.
+
+28
+00:01:39,809 --> 00:01:40,851
+¿Qué te pasa?
+
+29
+00:01:41,685 --> 00:01:43,395
+Me estás haciendo enojar.
+
+30
+00:01:43,854 --> 00:01:45,981
+¿Qué quieres hacer? A ver.
+
+31
+00:01:48,984 --> 00:01:50,569
+Estoy seguro de que es aquí.
+
+32
+00:01:50,653 --> 00:01:52,655
+Voy a revisar. Espera.
+
+33
+00:01:55,157 --> 00:01:57,159
+¡No revises y no vuelvas!
+
+34
+00:01:57,243 --> 00:01:59,829
+- Ya vuelvo.
+- ¡No vuelvas!
+
+35
+00:01:59,912 --> 00:02:01,205
+¡Vete!
+
+36
+00:02:01,288 --> 00:02:02,498
+Espera...
+
+37
+00:02:04,875 --> 00:02:06,502
+¡Ji-won! ¡Oye!
+
+38
+00:02:09,630 --> 00:02:10,631
+¿Qué demonios?
+
+39
+00:02:13,092 --> 00:02:15,761
+¿Ji-won? Abre la puerta.
+
+40
+00:02:17,137 --> 00:02:19,557
+No deberíamos hacer esto.
+
+41
+00:02:20,975 --> 00:02:24,144
+¿Qué? ¿De qué estás hablando?
+
+42
+00:02:25,187 --> 00:02:28,023
+¡No soy el repartidor!
+Soy yo. ¡Abre la puerta!
+
+43
+00:02:30,901 --> 00:02:32,528
+¡Por favor!
+
+44
+00:02:36,240 --> 00:02:38,701
+<i>Me confundes con tu actitud.</i>
+
+45
+00:02:38,784 --> 00:02:41,120
+<i>¿Qué opinas de nuestra relación?</i>
+
+46
+00:02:42,746 --> 00:02:44,290
+¿De qué habla?
+
+47
+00:02:44,957 --> 00:02:46,542
+¿Te sientes mal o algo?
+
+48
+00:02:46,917 --> 00:02:48,878
+Tú no eres así.
+
+49
+00:02:48,961 --> 00:02:50,963
+Abre la puerta. ¿Qué te pasa?
+
+50
+00:02:52,131 --> 00:02:55,384
+<i>Necesito un tiempo.</i>
+<i>Dime si te resulta difícil.</i>
+
+51
+00:02:55,467 --> 00:02:57,553
+<i>Aceptaré lo que tú digas.</i>
+
+52
+00:03:01,265 --> 00:03:02,433
+¿Es una broma?
+
+53
+00:03:17,865 --> 00:03:20,034
+<i>¡Me voy! Qué mala eres.</i>
+
+54
+00:03:44,183 --> 00:03:45,434
+¿Ji-won?
+
+55
+00:03:46,435 --> 00:03:47,519
+Me escuchas, ¿no?
+
+56
+00:03:50,147 --> 00:03:51,774
+No eres para nada fácil.
+
+57
+00:03:53,275 --> 00:03:55,110
+Lo que más me gusta es tu alma.
+
+58
+00:03:56,904 --> 00:04:00,199
+Además, eres pura piel y huesos.
+No tienes nada para mirar.
+
+59
+00:04:02,326 --> 00:04:03,994
+No me malinterpretes.
+
+60
+00:04:04,828 --> 00:04:05,829
+Como sea...
+
+61
+00:04:07,623 --> 00:04:08,832
+te pido disculpas.
+
+62
+00:04:10,459 --> 00:04:11,460
+Buenas noches.
+
+63
+00:04:28,978 --> 00:04:30,354
+Podría haber salido mal.
+
+64
+00:04:34,024 --> 00:04:35,025
+Maldita...
+
+65
+00:04:42,908 --> 00:04:43,909
+Maldición.
+
+66
+00:04:53,752 --> 00:04:54,837
+Gracias a Dios.
+
+67
+00:04:54,920 --> 00:04:57,715
+Iba a volver a subir si no salía.
+
+68
+00:04:59,425 --> 00:05:00,634
+¿Hice un buen trabajo?
+
+69
+00:05:01,343 --> 00:05:02,344
+Sí. Buen trabajo.
+
+70
+00:05:02,428 --> 00:05:04,221
+Parecía un espía. Fue divertido.
+
+71
+00:05:04,930 --> 00:05:06,265
+¿Qué está pasando?
+
+72
+00:05:11,645 --> 00:05:13,147
+Bueno...
+
+73
+00:05:13,230 --> 00:05:14,148
+¿Ya puedo irme?
+
+74
+00:05:20,612 --> 00:05:22,197
+{\an8}EPISODIO 3
+
+75
+00:05:25,617 --> 00:05:26,618
+{\an8}¡Hola!
+
+76
+00:05:27,119 --> 00:05:28,328
+{\an8}Te voy a...
+
+77
+00:05:28,412 --> 00:05:30,539
+{\an8}¿Adónde fuiste con el pollo?
+
+78
+00:05:30,622 --> 00:05:33,375
+{\an8}¡Tuve que hacer todas las entregas solo!
+
+79
+00:05:33,459 --> 00:05:35,335
+{\an8}Ji-hyuk me necesitaba.
+
+80
+00:05:36,336 --> 00:05:37,337
+{\an8}Maldito...
+
+81
+00:05:38,547 --> 00:05:39,631
+{\an8}Vamos...
+
+82
+00:05:39,715 --> 00:05:40,674
+{\an8}Vamos. Tira.
+
+83
+00:05:40,758 --> 00:05:42,634
+{\an8}- ¡Eres muy lento!
+- ¡Hazlo!
+
+84
+00:05:42,718 --> 00:05:44,970
+{\an8}- ¡Inténtalo!
+- Creí que habías huido.
+
+85
+00:05:45,054 --> 00:05:46,055
+{\an8}¿Por qué...?
+
+86
+00:05:47,848 --> 00:05:49,099
+{\an8}¿Por qué la urgencia?
+
+87
+00:05:50,100 --> 00:05:51,101
+{\an8}No sé.
+
+88
+00:05:51,185 --> 00:05:53,562
+{\an8}Me pidió que fingiera una entrega.
+
+89
+00:05:55,647 --> 00:05:57,399
+Creo que está pasando algo.
+
+90
+00:05:57,483 --> 00:05:58,484
+¿Qué quieres decir?
+
+91
+00:05:58,567 --> 00:06:01,361
+Esta mañana
+me pidió que buscara a alguien.
+
+92
+00:06:01,445 --> 00:06:02,946
+Hice más de 100 llamadas.
+
+93
+00:06:03,614 --> 00:06:05,032
+- ¿Para encontrarla?
+- Sí.
+
+94
+00:06:05,115 --> 00:06:07,242
+- ¿Por qué?
+- No sé.
+
+95
+00:06:07,326 --> 00:06:09,870
+Tenía una mirada rara.
+
+96
+00:06:11,955 --> 00:06:13,791
+No me animé a preguntar.
+
+97
+00:06:29,598 --> 00:06:32,684
+Deberías haber sido una celebridad.
+
+98
+00:06:33,185 --> 00:06:35,104
+No soy bueno con la gente.
+
+99
+00:06:35,187 --> 00:06:37,397
+Ese es tu problema.
+
+100
+00:06:37,481 --> 00:06:38,649
+Eres muy tímido...
+
+101
+00:06:39,942 --> 00:06:41,026
+Digo, escrupuloso.
+
+102
+00:06:41,610 --> 00:06:44,696
+Nos iría mucho mejor
+si fueras un poco descarado.
+
+103
+00:06:44,780 --> 00:06:46,740
+Si aparecieras en televisión haciendo...
+
+104
+00:06:46,824 --> 00:06:48,242
+un poco de esto
+
+105
+00:06:48,325 --> 00:06:49,576
+y un poco de aquello,
+
+106
+00:06:49,660 --> 00:06:52,704
+¡nuestras ventas estarían por las nubes!
+
+107
+00:06:54,289 --> 00:06:55,290
+Casi lo olvido.
+
+108
+00:06:55,374 --> 00:06:59,169
+No puedo venir el domingo.
+Ya le avisé al <i>sous-chef.</i>
+
+109
+00:06:59,253 --> 00:07:01,088
+¿Por qué? ¿Tienes una cita a ciegas?
+
+110
+00:07:01,713 --> 00:07:04,800
+¿Estás listo para empezar a tener citas?
+
+111
+00:07:04,883 --> 00:07:06,802
+No, no es eso.
+
+112
+00:07:07,886 --> 00:07:09,638
+Tengo una reunión de secundaria.
+
+113
+00:07:09,930 --> 00:07:10,973
+¿Qué?
+
+114
+00:07:11,682 --> 00:07:12,933
+¿Vas a ir?
+
+115
+00:07:13,058 --> 00:07:17,396
+¿No evitas esos eventos
+desde que tu primer amor te dejó?
+
+116
+00:07:17,479 --> 00:07:19,565
+Su rechazo te dolió mucho, ¿verdad?
+
+117
+00:07:21,483 --> 00:07:24,695
+No eres de esos hombres
+que las mujeres suelen rechazar.
+
+118
+00:07:24,778 --> 00:07:26,196
+Por favor.
+
+119
+00:07:26,780 --> 00:07:29,575
+Por cierto, ¿cómo supiste de la reunión?
+
+120
+00:07:30,492 --> 00:07:32,035
+No te hablas con nadie.
+
+121
+00:07:33,328 --> 00:07:34,413
+Bueno...
+
+122
+00:07:39,960 --> 00:07:43,005
+MARKETING DE ALIMENTOS DE U&K
+DIRECTOR GENERAL Yu Ji-hyuk
+
+123
+00:07:43,505 --> 00:07:45,174
+Por casualidad,
+
+124
+00:07:47,092 --> 00:07:48,594
+¿estás libre el domingo?
+
+125
+00:07:56,977 --> 00:07:59,438
+Pareces un hombre decente,
+
+126
+00:07:59,521 --> 00:08:01,356
+pero tengo novia.
+
+127
+00:08:01,940 --> 00:08:03,275
+- Lo lamento.
+- ¿Disculpa?
+
+128
+00:08:04,026 --> 00:08:06,904
+No me refería a eso. ¿Qué pensaste?
+
+129
+00:08:07,613 --> 00:08:09,323
+No soy así, no.
+
+130
+00:08:12,993 --> 00:08:14,786
+Hay una reunión de secundaria.
+
+131
+00:08:15,412 --> 00:08:17,915
+Apareció un hombre y me lo dijo.
+
+132
+00:08:18,957 --> 00:08:20,834
+Pero no sé quién era.
+
+133
+00:08:22,169 --> 00:08:23,420
+No iba a mi escuela.
+
+134
+00:08:23,503 --> 00:08:26,173
+¡Qué extraño!
+
+135
+00:08:26,256 --> 00:08:28,717
+Es mejor no involucrarse.
+
+136
+00:08:28,800 --> 00:08:31,720
+Si no quieres ver
+a tu primer amor, no vayas.
+
+137
+00:08:35,724 --> 00:08:36,725
+¿Qué hice?
+
+138
+00:08:38,227 --> 00:08:39,937
+¿Por qué eres así?
+
+139
+00:08:41,813 --> 00:08:44,691
+No quiero volver a hablar contigo jamás.
+
+140
+00:08:45,943 --> 00:08:47,486
+¿La extrañas?
+
+141
+00:08:48,278 --> 00:08:51,490
+Desde ese hecho traumático,
+no volviste a salir con nadie.
+
+142
+00:08:51,573 --> 00:08:53,533
+Hasta usas un anillo falso.
+
+143
+00:08:55,285 --> 00:08:58,247
+Es cierto, ¿no? No debería ir, ¿o sí?
+
+144
+00:08:58,330 --> 00:09:03,126
+Si vas a ir,
+
+145
+00:09:03,210 --> 00:09:04,544
+vístete para la ocasión.
+
+146
+00:09:33,740 --> 00:09:35,075
+No.
+
+147
+00:10:03,770 --> 00:10:05,856
+{\an8}<i>La verdad, hoy me enojé mucho.</i>
+
+148
+00:10:05,939 --> 00:10:09,109
+{\an8}<i>Pagarás por eso el domingo en Goseuljung.</i>
+
+149
+00:10:09,192 --> 00:10:10,235
+<i>No llegues tarde.</i>
+
+150
+00:10:11,320 --> 00:10:13,739
+No puedo hacerme linda
+de la noche a la mañana.
+
+151
+00:10:22,873 --> 00:10:25,751
+DOMINGO
+
+152
+00:10:33,383 --> 00:10:36,720
+<i>¿Vendrás, mi media naranja?</i>
+<i>¡Tenemos una cita!</i>
+
+153
+00:10:37,220 --> 00:10:40,223
+<i>No llegues tarde. ¡Ponte linda!</i>
+
+154
+00:10:42,184 --> 00:10:44,853
+No sé qué tan linda
+puedes ponerte de un día al otro,
+
+155
+00:10:46,146 --> 00:10:48,023
+pero me alcanza con que me guste.
+
+156
+00:10:55,364 --> 00:10:59,743
+37ª REUNIÓN
+DE LA ESCUELA SECUNDARIA TAEHA DE BUSÁN
+
+157
+00:11:01,787 --> 00:11:03,747
+Jeong Su-min, ¿eres tú?
+
+158
+00:11:08,377 --> 00:11:09,711
+¡Qué linda estás!
+
+159
+00:11:09,795 --> 00:11:11,380
+Siempre fue linda.
+
+160
+00:11:11,963 --> 00:11:14,466
+Qué bonita. No has cambiado en absoluto.
+
+161
+00:11:14,549 --> 00:11:16,927
+Oigan, llegó Su-min. ¡Brindemos!
+
+162
+00:11:17,010 --> 00:11:18,011
+¡Bebamos algo!
+
+163
+00:11:18,095 --> 00:11:19,096
+Siéntate.
+
+164
+00:11:19,971 --> 00:11:23,016
+¡Salud! ¡Por la secundaria Taeha de Busán!
+
+165
+00:11:29,147 --> 00:11:33,443
+Desde que conseguiste empleo
+en la empresa, te ves un poco distinta.
+
+166
+00:11:33,527 --> 00:11:35,737
+Ahora pareces una señora con clase.
+
+167
+00:11:37,364 --> 00:11:38,532
+Tuve suerte.
+
+168
+00:11:38,615 --> 00:11:40,575
+Ji-won me ayudó mucho.
+
+169
+00:11:41,660 --> 00:11:42,953
+¿Aún la ves?
+
+170
+00:11:44,746 --> 00:11:46,081
+Es mi media naranja.
+
+171
+00:11:46,164 --> 00:11:49,459
+Eres demasiado buena.
+Sigues siendo una presa fácil.
+
+172
+00:11:49,876 --> 00:11:50,961
+¿Y ella qué hace?
+
+173
+00:11:51,044 --> 00:11:53,338
+¿Aún se aprovecha de ti?
+
+174
+00:11:53,422 --> 00:11:54,840
+Es modesta.
+
+175
+00:11:54,923 --> 00:11:57,008
+Pero igual está mucho más linda.
+
+176
+00:11:57,092 --> 00:11:59,511
+De hecho, vendrá más tarde. La invité.
+
+177
+00:12:00,387 --> 00:12:02,305
+¿Qué? ¿Va a venir?
+
+178
+00:12:02,389 --> 00:12:05,475
+Sean buenas con ella cuando llegue.
+
+179
+00:12:06,518 --> 00:12:08,437
+No está pasando un buen momento.
+
+180
+00:12:08,812 --> 00:12:09,813
+¿Por qué?
+
+181
+00:12:12,941 --> 00:12:17,946
+¿Recuerdan que le conseguí empleo en U&K?
+
+182
+00:12:18,029 --> 00:12:20,615
+Bueno, se enamoró de Park Min-hwan.
+
+183
+00:12:20,699 --> 00:12:23,076
+¿Park Min-Hwan? ¿No es el que te gusta?
+
+184
+00:12:23,160 --> 00:12:24,619
+¿Es la misma persona?
+
+185
+00:12:27,205 --> 00:12:28,206
+¿Qué?
+
+186
+00:12:29,749 --> 00:12:31,334
+Bueno...
+
+187
+00:12:32,627 --> 00:12:35,088
+No. No es lo que piensan.
+
+188
+00:12:36,590 --> 00:12:38,258
+No le digan nada.
+
+189
+00:12:38,341 --> 00:12:40,218
+- Por favor, no.
+- ¿Por qué no?
+
+190
+00:12:42,387 --> 00:12:44,097
+¡Está haciendo lo mismo de nuevo!
+
+191
+00:12:45,682 --> 00:12:46,975
+MEDIA NARANJA
+
+192
+00:12:49,978 --> 00:12:51,021
+Hola, Ji-won.
+
+193
+00:12:51,104 --> 00:12:52,606
+<i>Hola, ¿dónde estás?</i>
+
+194
+00:12:59,112 --> 00:13:01,615
+Iré a buscarte si no sabes cómo llegar.
+
+195
+00:13:11,124 --> 00:13:12,626
+<i>Estoy aquí. Detrás de ti.</i>
+
+196
+00:13:24,221 --> 00:13:25,430
+Ji-won...
+
+197
+00:13:25,514 --> 00:13:26,765
+¿Qué pasa?
+
+198
+00:13:26,848 --> 00:13:28,558
+¿No íbamos a cenar solas?
+
+199
+00:13:32,646 --> 00:13:33,980
+Ha pasado mucho tiempo.
+
+200
+00:13:49,496 --> 00:13:51,998
+No puedo hacerme linda
+de la noche a la mañana.
+
+201
+00:14:01,716 --> 00:14:02,968
+{\an8}¡Kang!
+
+202
+00:14:03,051 --> 00:14:05,345
+{\an8}Dijiste que tenías planes el domingo.
+
+203
+00:14:05,428 --> 00:14:07,305
+{\an8}¿Qué tal si salimos mañana?
+
+204
+00:14:16,147 --> 00:14:18,233
+SÁBADO
+
+205
+00:14:21,736 --> 00:14:26,700
+SALDO DE ACCIONES: 1 403 000 WONES
+
+206
+00:14:26,783 --> 00:14:28,952
+Subió a 1,4 millones de wones.
+
+207
+00:14:29,452 --> 00:14:32,706
+Invertí tres millones.
+Ahora tengo seis millones.
+
+208
+00:14:34,124 --> 00:14:35,959
+Cuando cobre el próximo sueldo,
+
+209
+00:14:36,042 --> 00:14:37,419
+lo invertiré todo.
+
+210
+00:15:08,450 --> 00:15:09,451
+¿Qué diablos?
+
+211
+00:15:10,702 --> 00:15:12,954
+Son muy distintos a lo que creía.
+
+212
+00:15:20,295 --> 00:15:23,715
+<i>Por eso el director general</i>
+<i>me dijo que no los usara.</i>
+
+213
+00:15:25,342 --> 00:15:26,843
+Qué tonta soy.
+
+214
+00:15:39,856 --> 00:15:40,899
+Qué bonito.
+
+215
+00:15:48,448 --> 00:15:49,574
+¡Ji-won!
+
+216
+00:15:53,286 --> 00:15:54,871
+¡Perdón por llegar tarde!
+
+217
+00:15:54,954 --> 00:15:56,122
+No hay problema.
+
+218
+00:15:56,706 --> 00:16:01,169
+¡Qué linda te ves hoy!
+Te pusiste la ropa que te regalé.
+
+219
+00:16:02,504 --> 00:16:04,339
+Para hoy... ¡sorpresa!
+
+220
+00:16:05,465 --> 00:16:06,549
+Sombreros iguales.
+
+221
+00:16:10,887 --> 00:16:12,555
+Ten el tuyo.
+
+222
+00:16:13,973 --> 00:16:16,017
+¡Te queda genial!
+
+223
+00:16:16,559 --> 00:16:17,560
+Gracias.
+
+224
+00:16:18,353 --> 00:16:20,814
+Ojalá las gafas
+me quedaran bien como a ti.
+
+225
+00:16:21,981 --> 00:16:24,401
+Te ves más linda sin ellas.
+
+226
+00:16:24,484 --> 00:16:29,030
+¿Otra vez tu falta de autoestima?
+¡Eres bonita! ¡Muy bonita!
+
+227
+00:16:30,532 --> 00:16:31,616
+¿Dónde está Min-hwan?
+
+228
+00:16:32,242 --> 00:16:33,868
+Llegará pronto.
+
+229
+00:16:36,246 --> 00:16:39,541
+Hoy hay buen clima. ¡Qué calor!
+
+230
+00:16:40,083 --> 00:16:42,043
+Dame los dulces.
+
+231
+00:16:47,090 --> 00:16:50,468
+Perdón. Me olvidé de comprar más
+desde que los terminamos.
+
+232
+00:16:52,387 --> 00:16:56,224
+¿Qué? Sabes lo mucho
+que me gustan los dulces.
+
+233
+00:16:59,102 --> 00:17:00,103
+Lo siento.
+
+234
+00:17:02,564 --> 00:17:05,358
+¿Qué pasa?
+¿Ji-won hizo enojar a Su-min de nuevo?
+
+235
+00:17:05,442 --> 00:17:10,280
+Hola, Min-hwan.
+No me trajo mi dulce preferido.
+
+236
+00:17:10,363 --> 00:17:13,366
+Si yo le importara, me lo habría traído.
+
+237
+00:17:13,450 --> 00:17:14,617
+Estoy muy enojada.
+
+238
+00:17:16,619 --> 00:17:17,829
+¿Por qué hiciste eso?
+
+239
+00:17:19,330 --> 00:17:21,332
+¡Por eso yo compré!
+
+240
+00:17:22,250 --> 00:17:23,460
+¡Mi favorito!
+
+241
+00:17:23,543 --> 00:17:26,171
+- ¡Es el mejor!
+- ¡Qué bien!
+
+242
+00:17:27,172 --> 00:17:30,759
+- ¿Vamos a ver las flores?
+- ¡Buena idea! ¡Trae nuestras cosas!
+
+243
+00:17:34,345 --> 00:17:35,346
+- ¡Rápido!
+- ¡Voy!
+
+244
+00:17:38,683 --> 00:17:39,684
+¡Esperen!
+
+245
+00:17:44,773 --> 00:17:46,483
+Vaya, qué lindo.
+
+246
+00:17:48,067 --> 00:17:49,402
+- ¿Trajiste todo?
+- Sí.
+
+247
+00:17:50,320 --> 00:17:52,781
+- Mira allá. ¿No es bonito?
+- Sí.
+
+248
+00:17:56,493 --> 00:17:58,745
+¡Mi tan esperada cita contigo!
+
+249
+00:17:59,162 --> 00:18:00,580
+Lo siento mucho.
+
+250
+00:18:01,831 --> 00:18:03,333
+No, está bien.
+
+251
+00:18:04,918 --> 00:18:07,003
+Authentique...
+
+252
+00:18:11,341 --> 00:18:13,343
+Me lo regaló Su-min.
+
+253
+00:18:13,426 --> 00:18:14,969
+Pero es una imitación.
+
+254
+00:18:15,053 --> 00:18:16,679
+Acabo de enterarme.
+
+255
+00:18:22,185 --> 00:18:24,562
+Esos son originales, ¿verdad?
+
+256
+00:18:24,646 --> 00:18:26,272
+Sí, son originales.
+
+257
+00:18:28,525 --> 00:18:30,276
+El brillo es diferente, ¿no?
+
+258
+00:18:30,360 --> 00:18:32,111
+Son hermosos.
+
+259
+00:18:32,195 --> 00:18:34,197
+Gracias. Son bonitos, ¿verdad?
+
+260
+00:18:39,202 --> 00:18:41,204
+¿Por qué no bebes?
+
+261
+00:18:41,287 --> 00:18:43,164
+Es tan agradable beber juntas.
+
+262
+00:18:43,790 --> 00:18:46,292
+¿De qué hablas? Yo bebo mucho.
+
+263
+00:18:46,376 --> 00:18:48,169
+Dijiste que no bebías.
+
+264
+00:18:48,253 --> 00:18:50,630
+Dijiste que habías dejado de beber
+
+265
+00:18:50,713 --> 00:18:53,424
+desde que cometiste un grave error
+estando ebria.
+
+266
+00:18:53,508 --> 00:18:55,635
+¿Yo? ¿Cometí un error ebria?
+
+267
+00:18:56,261 --> 00:18:57,095
+<i>¿Estás bien?</i>
+
+268
+00:19:07,647 --> 00:19:09,607
+Dejé de beber por un tiempo.
+
+269
+00:19:09,691 --> 00:19:12,527
+Pero comencé a beber de nuevo
+por culpa de Min-hwan...
+
+270
+00:19:13,778 --> 00:19:15,238
+¿Cómo?
+
+271
+00:19:15,321 --> 00:19:18,575
+¿Empezaste a beber de nuevo
+por culpa del señor Park?
+
+272
+00:19:19,617 --> 00:19:22,453
+<i>No ahora, sino dentro de cinco años.</i>
+
+273
+00:19:24,998 --> 00:19:28,084
+Está bien beber con moderación.
+
+274
+00:19:28,167 --> 00:19:32,255
+Dejar de beber por temer cometer
+otro error me pareció una estupidez.
+
+275
+00:19:33,298 --> 00:19:36,092
+- ¿Quieres bollos fritos?
+- ¡Sí!
+
+276
+00:19:37,594 --> 00:19:40,263
+- ¿Nos traes seis bollos fritos más?
+- Bueno.
+
+277
+00:19:40,346 --> 00:19:43,933
+<i>En aquel entonces, el error</i>
+<i>que cometí ebria fue muy grave.</i>
+
+278
+00:19:44,017 --> 00:19:45,768
+<i>Lo había olvidado.</i>
+
+279
+00:19:46,853 --> 00:19:49,898
+<i>¿Por qué me pesó tanto</i>
+<i>que me volví tan introvertida?</i>
+
+280
+00:19:49,981 --> 00:19:51,399
+Aquí están los bollos.
+
+281
+00:19:51,482 --> 00:19:52,859
+Gracias.
+
+282
+00:19:53,651 --> 00:19:54,986
+Me caes muy bien.
+
+283
+00:19:55,653 --> 00:19:57,614
+Eres brillante y saludable.
+
+284
+00:19:57,697 --> 00:20:00,199
+¿De allí viene tu nombre?
+
+285
+00:20:00,283 --> 00:20:01,576
+Así es.
+
+286
+00:20:01,659 --> 00:20:04,037
+Mi nombre significa "conexión alegre".
+
+287
+00:20:04,120 --> 00:20:06,372
+"Sé una conexión alegre con todos".
+
+288
+00:20:06,456 --> 00:20:07,832
+Ese es mi lema.
+
+289
+00:20:08,833 --> 00:20:09,959
+Lo sabía.
+
+290
+00:20:10,043 --> 00:20:11,628
+¡Brindemos!
+
+291
+00:20:13,046 --> 00:20:14,547
+- Por una alegre...
+- ¡Conexión!
+
+292
+00:20:22,221 --> 00:20:23,598
+Pruébalos. ¡Están buenos!
+
+293
+00:20:23,681 --> 00:20:25,558
+- ¿Ahora?
+- ¡Sí!
+
+294
+00:20:25,642 --> 00:20:26,809
+¿Lo como ahora?
+
+295
+00:20:28,478 --> 00:20:30,647
+¿No está bueno? ¡Está buenísimo!
+
+296
+00:20:31,230 --> 00:20:32,607
+¡Qué rico!
+
+297
+00:20:32,690 --> 00:20:34,359
+Para ser sincera,
+
+298
+00:20:34,442 --> 00:20:36,235
+me alegra que hayamos salido hoy.
+
+299
+00:20:36,653 --> 00:20:39,906
+Los domingos no podemos beber tanto
+porque trabajamos el lunes.
+
+300
+00:20:39,989 --> 00:20:41,074
+Tienes razón.
+
+301
+00:20:42,492 --> 00:20:44,410
+¿Mañana tienes la reunión?
+
+302
+00:20:44,494 --> 00:20:46,955
+- ¿Bebemos con moderación?
+- Cierto.
+
+303
+00:20:47,664 --> 00:20:50,291
+Aún no sé si iré.
+
+304
+00:20:54,087 --> 00:20:56,965
+La verdad es que no era
+solo una chica poco popular.
+
+305
+00:20:57,048 --> 00:20:58,174
+Sufrí de <i>bullying.</i>
+
+306
+00:20:59,133 --> 00:21:01,094
+¿Qué? ¿Te hicieron <i>bullying?</i>
+
+307
+00:21:02,011 --> 00:21:03,304
+¿Pero por qué?
+
+308
+00:21:04,555 --> 00:21:05,807
+No sé.
+
+309
+00:21:05,890 --> 00:21:07,976
+De repente, todos me odiaban.
+
+310
+00:21:09,102 --> 00:21:12,188
+Eso me hizo sentir insignificante
+
+311
+00:21:12,271 --> 00:21:14,148
+y cometer más errores.
+
+312
+00:21:14,232 --> 00:21:17,443
+Y todos me odiaban más por eso.
+
+313
+00:21:18,653 --> 00:21:20,363
+¿No les preguntaste por qué?
+
+314
+00:21:21,114 --> 00:21:22,573
+No me atreví.
+
+315
+00:21:22,657 --> 00:21:25,827
+Pero si no preguntas, jamás lo sabrás.
+
+316
+00:21:25,910 --> 00:21:30,206
+Soy de las que huyen
+cuando las cosas se ponen difíciles,
+
+317
+00:21:30,289 --> 00:21:32,917
+pero, antes de huir, debes intentarlo.
+
+318
+00:21:34,252 --> 00:21:37,463
+Necesito saber si el otro está loco
+
+319
+00:21:37,547 --> 00:21:40,133
+o si tiene razones para odiarme,
+
+320
+00:21:40,216 --> 00:21:42,135
+así no me arrepiento luego.
+
+321
+00:21:43,052 --> 00:21:44,721
+¿Así no te arrepientes?
+
+322
+00:21:45,346 --> 00:21:46,389
+Sí.
+
+323
+00:21:46,889 --> 00:21:50,018
+<i>Tiene mucho sentido.</i>
+<i>¿Por qué no se me había ocurrido?</i>
+
+324
+00:21:51,728 --> 00:21:54,939
+Su-min es demasiado buena.
+
+325
+00:21:55,023 --> 00:21:58,026
+Desde la secundaria, Ji-won...
+
+326
+00:21:58,109 --> 00:21:59,527
+Ye-ji, espera.
+
+327
+00:22:00,611 --> 00:22:02,613
+Ji-won no estaba en su asiento.
+
+328
+00:22:06,117 --> 00:22:07,869
+<i>Necesito escuchar el resto.</i>
+
+329
+00:22:07,952 --> 00:22:08,953
+Tienes razón.
+
+330
+00:22:10,455 --> 00:22:12,999
+Debería ir
+si no quiero arrepentirme luego.
+
+331
+00:22:19,505 --> 00:22:20,590
+¿Qué pasa?
+
+332
+00:22:20,673 --> 00:22:23,676
+Dejar atrás un pasado vergonzoso
+
+333
+00:22:23,760 --> 00:22:24,969
+suena fácil,
+
+334
+00:22:25,553 --> 00:22:28,598
+pero no le ocurre de la noche a la mañana
+a alguien como yo.
+
+335
+00:22:28,681 --> 00:22:30,433
+Puede que eso sea cierto,
+
+336
+00:22:30,933 --> 00:22:32,810
+pero puedes intentarlo.
+
+337
+00:22:34,228 --> 00:22:36,939
+- ¿Puedo?
+- Más vale prevenir que curar.
+
+338
+00:22:37,523 --> 00:22:40,526
+¡Los que estén preparados no fracasarán!
+
+339
+00:22:52,205 --> 00:22:53,664
+¿Qué estás haciendo?
+
+340
+00:22:53,748 --> 00:22:55,124
+Me encantan los bollos.
+
+341
+00:22:56,209 --> 00:22:58,169
+Los comeré luego en casa.
+
+342
+00:23:02,673 --> 00:23:05,885
+Llegó la hora de que te recompense
+por tanta amabilidad.
+
+343
+00:23:26,572 --> 00:23:28,199
+¡Hola!
+
+344
+00:23:28,282 --> 00:23:30,034
+¡Tanto tiempo, Hui-yeon!
+
+345
+00:23:30,118 --> 00:23:33,538
+Ella es mi jefa preferida en el trabajo.
+
+346
+00:23:33,621 --> 00:23:34,664
+Hola.
+
+347
+00:23:34,747 --> 00:23:36,707
+Hola, soy la diseñadora Song Jae-min.
+
+348
+00:23:37,250 --> 00:23:38,459
+¿Empezamos?
+
+349
+00:23:38,543 --> 00:23:40,336
+Sí, vamos.
+
+350
+00:23:45,174 --> 00:23:48,803
+Pagaré con mi membresía.
+
+351
+00:23:48,886 --> 00:23:51,222
+- No, Hui-yeon.
+- ¡Ni digas nada!
+
+352
+00:23:51,305 --> 00:23:52,306
+Mi salvadora.
+
+353
+00:23:53,182 --> 00:23:54,433
+Concéntrate.
+
+354
+00:23:54,517 --> 00:23:56,727
+¿La membresía que vence hoy?
+
+355
+00:23:57,270 --> 00:23:58,729
+Qué buena noticia.
+
+356
+00:23:58,813 --> 00:24:01,524
+¿Qué habrías hecho sin ella, Hui-yeon?
+
+357
+00:24:01,607 --> 00:24:04,569
+Tu cabello es tan lindo
+que cualquier cosa te quedará bien.
+
+358
+00:24:04,652 --> 00:24:06,404
+¿Qué tal una permanente con ondas?
+
+359
+00:24:06,487 --> 00:24:07,905
+¿O una con rulos?
+
+360
+00:24:09,532 --> 00:24:11,701
+Un cambio demasiado radical
+
+361
+00:24:11,784 --> 00:24:14,579
+te haría sentir como otra persona.
+
+362
+00:24:14,871 --> 00:24:18,541
+Mejor una permanente con ondas.
+Y una permanente de pestañas.
+
+363
+00:24:18,624 --> 00:24:21,002
+- Depílale las cejas...
+- Espera.
+
+364
+00:24:24,797 --> 00:24:26,883
+Quiero ser otra persona.
+
+365
+00:24:31,888 --> 00:24:33,139
+Bien, entendido.
+
+366
+00:24:33,222 --> 00:24:36,976
+Entonces hoy renacerás.
+
+367
+00:24:38,853 --> 00:24:41,063
+Además, ponle extensiones.
+
+368
+00:24:41,147 --> 00:24:42,190
+Y...
+
+369
+00:24:42,273 --> 00:24:43,357
+¡ponle maquillaje!
+
+370
+00:24:43,441 --> 00:24:44,275
+¿Está Nam?
+
+371
+00:24:44,358 --> 00:24:45,568
+Sí. La llamaré.
+
+372
+00:24:46,819 --> 00:24:50,364
+Te presentaré a la nueva tú.
+
+373
+00:24:50,448 --> 00:24:52,700
+La conocerás frente a un espejo.
+
+374
+00:25:12,887 --> 00:25:15,306
+<i>Los que no tienen tu madurez mental</i>
+
+375
+00:25:15,389 --> 00:25:17,850
+<i>juzgan a los demás por su apariencia.</i>
+
+376
+00:25:18,726 --> 00:25:21,520
+<i>Si quieres algo, vístete en consecuencia.</i>
+
+377
+00:25:21,604 --> 00:25:22,897
+<i>Ese es el comienzo.</i>
+
+378
+00:26:01,185 --> 00:26:03,854
+¡Perfecto!
+
+379
+00:26:03,938 --> 00:26:05,731
+¡Te ves increíble!
+
+380
+00:26:05,815 --> 00:26:07,066
+¡Te queda muy bien!
+
+381
+00:26:07,900 --> 00:26:09,902
+Eres tan bonita. ¿Te gusta?
+
+382
+00:27:15,885 --> 00:27:17,053
+¿Qué tal esta?
+
+383
+00:27:19,889 --> 00:27:22,266
+¡Qué linda!
+
+384
+00:27:22,350 --> 00:27:24,727
+¡Lo clásico es atemporal!
+
+385
+00:27:32,610 --> 00:27:34,695
+No, tal vez la próxima.
+
+386
+00:27:35,279 --> 00:27:37,323
+¿Por qué? ¡Es genial!
+
+387
+00:27:38,824 --> 00:27:41,494
+Esto tiene que ser para otra persona.
+
+388
+00:27:48,584 --> 00:27:51,170
+Amigo, estás escupiendo toda la carne.
+
+389
+00:27:51,253 --> 00:27:52,463
+¿Estás resfriado?
+
+390
+00:27:52,546 --> 00:27:55,049
+¡Es por el humo! No estoy enfermo.
+
+391
+00:27:57,718 --> 00:28:00,513
+¿Qué? ¿Tu chica
+no te contestó ni te llamó?
+
+392
+00:28:00,596 --> 00:28:02,390
+Yo no llamo a Ji-won.
+
+393
+00:28:03,015 --> 00:28:06,185
+Los verdaderos jugadores
+dejamos que todo fluya.
+
+394
+00:28:06,727 --> 00:28:09,021
+LLAMADAS RECIENTES
+KANG JI-WON
+
+395
+00:28:09,105 --> 00:28:11,732
+LLAMADA FALLIDA
+
+396
+00:28:11,816 --> 00:28:14,276
+Si las dejas en paz, empiezan a pensar.
+
+397
+00:28:14,360 --> 00:28:17,071
+Y cuando empiezan a pensar, se rinden.
+
+398
+00:28:17,780 --> 00:28:20,408
+- No sabes nada.
+- Ayúdame con esto.
+
+399
+00:28:21,450 --> 00:28:22,451
+Mira.
+
+400
+00:28:22,993 --> 00:28:24,370
+¿Necesitas ayuda?
+
+401
+00:28:25,037 --> 00:28:27,581
+¡La hamaca!
+
+402
+00:28:28,165 --> 00:28:29,375
+Soy muy bueno con esto.
+
+403
+00:28:29,458 --> 00:28:31,502
+¿La abrimos? Uno, dos, tres.
+
+404
+00:28:37,216 --> 00:28:39,135
+Ven a comer algo en un rato.
+
+405
+00:28:52,148 --> 00:28:55,151
+Pero esta perra
+aguanta más de lo que creía.
+
+406
+00:28:56,277 --> 00:28:57,903
+Vas a morir de todas formas.
+
+407
+00:28:58,696 --> 00:28:59,697
+¡Lárgate de aquí!
+
+408
+00:29:41,947 --> 00:29:44,116
+Los bollos ya están fríos.
+
+409
+00:29:45,576 --> 00:29:47,119
+Disculpe. Más bollos...
+
+410
+00:29:56,462 --> 00:29:57,755
+Gracias, Hui-yeon.
+
+411
+00:30:07,681 --> 00:30:08,849
+<i>Miraré tu propuesta</i>
+
+412
+00:30:08,933 --> 00:30:10,768
+<i>del kit de comida.</i>
+
+413
+00:30:10,851 --> 00:30:12,728
+<i>Ju-ran y Su-min estarán en el equipo.</i>
+
+414
+00:30:12,811 --> 00:30:15,064
+<i>Ellos compensarán lo que te falta.</i>
+
+415
+00:30:16,482 --> 00:30:18,067
+¿Leyó mi propuesta?
+
+416
+00:30:19,818 --> 00:30:21,820
+¿Jeong Su-min estará en el equipo?
+
+417
+00:30:24,573 --> 00:30:25,574
+Espera.
+
+418
+00:30:28,160 --> 00:30:32,081
+<i>No te olvidaste de mañana, ¿verdad?</i>
+<i>Goseuljung a las 17:30.</i>
+
+419
+00:30:33,332 --> 00:30:35,543
+BUENO
+
+420
+00:30:40,756 --> 00:30:41,757
+¿Hola?
+
+421
+00:30:41,840 --> 00:30:43,634
+Ji-won, soy yo.
+
+422
+00:30:44,927 --> 00:30:46,595
+¿Qué hiciste hoy?
+
+423
+00:30:48,347 --> 00:30:50,891
+Hoy comí <i>tteokbokki </i>con Hui-yeon.
+
+424
+00:30:51,684 --> 00:30:53,227
+Ahora está durmiendo.
+
+425
+00:30:54,228 --> 00:30:56,814
+¿Yu Hui-yeon está en tu casa? ¿Por qué?
+
+426
+00:30:56,897 --> 00:30:59,108
+Estábamos hablando y se quedó dormida.
+
+427
+00:30:59,608 --> 00:31:01,110
+Además, bebimos unos tragos.
+
+428
+00:31:06,240 --> 00:31:07,491
+¿Hola?
+
+429
+00:31:07,575 --> 00:31:08,993
+Deberías haberme llamado.
+
+430
+00:31:11,370 --> 00:31:14,623
+¿Hice algo que te molestó?
+
+431
+00:31:14,707 --> 00:31:18,210
+No. ¿Hiciste algo que podría molestarme?
+
+432
+00:31:18,294 --> 00:31:19,545
+No, nada.
+
+433
+00:31:23,007 --> 00:31:25,801
+Te llamé para pedirte un favor.
+
+434
+00:31:28,637 --> 00:31:30,014
+¿Qué pasa?
+
+435
+00:31:33,392 --> 00:31:34,727
+Me preguntaba...
+
+436
+00:31:35,352 --> 00:31:36,395
+{\an8}Es...
+
+437
+00:31:36,478 --> 00:31:37,980
+{\an8}Se trata de tu propuesta.
+
+438
+00:31:38,063 --> 00:31:39,690
+{\an8}¡Esto es genial!
+
+439
+00:31:39,773 --> 00:31:41,066
+Es muy buena.
+
+440
+00:31:41,150 --> 00:31:42,943
+¿Puedo arreglarla y presentarla?
+
+441
+00:31:43,027 --> 00:31:45,613
+¿Puedo arreglarla un poco
+y presentarla de nuevo?
+
+442
+00:31:45,696 --> 00:31:46,989
+¿Qué opinas?
+
+443
+00:31:52,286 --> 00:31:54,955
+No, no puedes. Es mi propuesta.
+
+444
+00:31:55,914 --> 00:31:59,043
+¿Por qué no? Si la rechazaron.
+Tengo un buen presentimiento.
+
+445
+00:31:59,126 --> 00:32:01,170
+<i>Quiero ser una empleada fija.</i>
+
+446
+00:32:01,253 --> 00:32:02,963
+¡Triunfemos juntas, amiga!
+
+447
+00:32:04,798 --> 00:32:06,133
+Deberías habérmelo dicho.
+
+448
+00:32:06,842 --> 00:32:08,302
+<i>De haber sabido,</i>
+
+449
+00:32:08,385 --> 00:32:10,179
+no la habría arreglado.
+
+450
+00:32:11,972 --> 00:32:14,725
+Lo siento, te daré mi próxima buena idea.
+
+451
+00:32:16,101 --> 00:32:17,478
+<i>Y...</i>
+
+452
+00:32:20,356 --> 00:32:23,275
+Deja de llamarme por mi nombre
+en el trabajo.
+
+453
+00:32:23,859 --> 00:32:26,570
+<i>Somos amigas,</i>
+<i>pero tenemos puestos diferentes</i>
+
+454
+00:32:26,654 --> 00:32:30,949
+y tengo más experiencia.
+Te excedes al pedirme que lleve café
+
+455
+00:32:31,033 --> 00:32:32,284
+y darme órdenes.
+
+456
+00:32:33,494 --> 00:32:36,580
+No mezclemos los negocios
+con el placer, ¿de acuerdo?
+
+457
+00:32:38,957 --> 00:32:41,335
+- ¿Qué?
+- Debo cortar. Nos vemos mañana.
+
+458
+00:32:49,635 --> 00:32:50,636
+¿Qué fue eso?
+
+459
+00:32:53,263 --> 00:32:56,100
+Ji-won, ¿cómo te atreves a hacerme esto?
+
+460
+00:33:00,562 --> 00:33:04,066
+<i>Cambié mis reservas por ti</i>
+<i>para ir a la reunión.</i>
+
+461
+00:33:04,149 --> 00:33:06,151
+<i>Nos vemos mañana, amiga.</i>
+
+462
+00:33:07,653 --> 00:33:09,363
+<i>Te quiero. Nos vemos mañana.</i>
+
+463
+00:33:09,446 --> 00:33:11,865
+<i>¡Tengo aretes nuevos</i>
+<i>para mostrarte, Ye-ji!</i>
+
+464
+00:33:15,536 --> 00:33:16,870
+No puedo creerlo.
+
+465
+00:33:16,954 --> 00:33:20,666
+Bajo la guardia,
+y se olvida de que es una perdedora.
+
+466
+00:33:22,042 --> 00:33:23,252
+Está bien.
+
+467
+00:33:23,335 --> 00:33:25,504
+Tendré que recordárselo.
+
+468
+00:33:26,255 --> 00:33:28,924
+<i>Recuerda usar los aretes que te compré.</i>
+
+469
+00:33:33,053 --> 00:33:35,347
+{\an8}KIT DE COMIDA PARA HOGARES UNIPERSONALES
+
+470
+00:33:38,642 --> 00:33:41,103
+¡Por aquí! Ya está el pollo. Ven.
+
+471
+00:33:42,563 --> 00:33:43,897
+¿Qué te dijo tu mamá?
+
+472
+00:33:44,898 --> 00:33:46,942
+Le dije que estaba con usted.
+
+473
+00:33:47,818 --> 00:33:50,612
+Mi mamá es muy tonta.
+
+474
+00:33:50,696 --> 00:33:53,031
+Ya tengo 31 años
+y aún tengo toque de queda.
+
+475
+00:33:53,115 --> 00:33:55,909
+Porque eres muy bonita.
+
+476
+00:33:55,993 --> 00:33:57,119
+Se preocupa por ti.
+
+477
+00:33:57,995 --> 00:33:59,663
+Te diré algo de las mujeres.
+
+478
+00:34:03,250 --> 00:34:05,127
+Deberían crecer protegidas.
+
+479
+00:34:06,587 --> 00:34:07,588
+Ten.
+
+480
+00:34:09,047 --> 00:34:11,508
+¿Qué tiene que mi mamá me criara así?
+
+481
+00:34:12,092 --> 00:34:15,596
+Debo conocer a un hombre como usted
+para tener una vida así.
+
+482
+00:34:24,438 --> 00:34:25,564
+Así es. Sí.
+
+483
+00:34:26,482 --> 00:34:28,400
+Basta de hablar de trabajo.
+
+484
+00:34:28,484 --> 00:34:31,236
+- Puedo llamarte Gyeong-uk, ¿verdad?
+- Espera.
+
+485
+00:34:33,280 --> 00:34:34,907
+Por supuesto.
+
+486
+00:34:34,990 --> 00:34:36,700
+De ahora en más,
+
+487
+00:34:37,493 --> 00:34:39,244
+somos más que colegas.
+
+488
+00:34:41,330 --> 00:34:43,248
+{\an8}PREPARADO: SUBGERENTE KANG JI-WON
+
+489
+00:34:46,335 --> 00:34:47,503
+Toma.
+
+490
+00:35:13,987 --> 00:35:16,949
+GOSEULJUNG
+
+491
+00:35:29,586 --> 00:35:30,587
+<i>Hola, Ji-won.</i>
+
+492
+00:35:31,129 --> 00:35:32,631
+Hola, ¿dónde estás?
+
+493
+00:35:39,221 --> 00:35:41,598
+Iré a buscarte si no sabes cómo llegar.
+
+494
+00:35:44,351 --> 00:35:45,853
+Estoy aquí. Detrás de ti.
+
+495
+00:35:55,445 --> 00:35:57,114
+Ji-won...
+
+496
+00:35:59,324 --> 00:36:02,202
+¿Qué pasa? ¿No íbamos a cenar solas?
+
+497
+00:36:11,795 --> 00:36:13,130
+Ha pasado mucho tiempo.
+
+498
+00:36:18,969 --> 00:36:20,637
+Vaya, ¿qué pasó?
+
+499
+00:36:20,721 --> 00:36:23,348
+La perdedora Kang Ji-won
+se puso muy bonita.
+
+500
+00:36:24,850 --> 00:36:28,353
+No te recuerdo,
+eres prácticamente un extraño.
+
+501
+00:36:28,437 --> 00:36:29,438
+Qué grosero eres.
+
+502
+00:36:30,939 --> 00:36:32,190
+¿Sí? Lo siento.
+
+503
+00:36:32,274 --> 00:36:34,318
+Estoy muy perdido.
+
+504
+00:36:35,152 --> 00:36:36,653
+Él no ha cambiado.
+
+505
+00:36:36,737 --> 00:36:38,071
+Siempre estuvo perdido.
+
+506
+00:36:38,155 --> 00:36:40,073
+Y lo sigue estando.
+
+507
+00:36:41,074 --> 00:36:43,493
+Tienes los mismos aretes que Su-min.
+
+508
+00:36:44,119 --> 00:36:45,954
+¿Y hablas de modales?
+
+509
+00:36:49,541 --> 00:36:50,584
+¿Los aretes?
+
+510
+00:36:51,835 --> 00:36:53,462
+No, no son los mismos.
+
+511
+00:36:54,046 --> 00:36:56,590
+Estos se ven muy lindos.
+
+512
+00:36:59,426 --> 00:37:02,512
+Y esos parecen baratos.
+
+513
+00:37:03,138 --> 00:37:04,765
+¿Son una imitación?
+
+514
+00:37:04,848 --> 00:37:06,808
+Vaya, ¿te copiaste de ella?
+
+515
+00:37:06,892 --> 00:37:09,645
+Su-min, deberías
+haber comprado los originales.
+
+516
+00:37:09,728 --> 00:37:11,772
+Hay imitaciones muy buenas.
+
+517
+00:37:11,855 --> 00:37:14,691
+Olvídalo. Puede pasar
+cuando no tienes dinero.
+
+518
+00:37:16,568 --> 00:37:19,154
+{\an8}CINCO HORAS ANTES
+
+519
+00:37:27,621 --> 00:37:30,415
+El maquillaje es un arte.
+Mejoras con la práctica.
+
+520
+00:37:44,638 --> 00:37:46,598
+En cuanto a las imitaciones...
+
+521
+00:37:47,349 --> 00:37:48,350
+No.
+
+522
+00:37:48,433 --> 00:37:49,935
+Todas las imitaciones
+
+523
+00:37:50,018 --> 00:37:53,313
+tienen diferentes grados.
+Grado S, Grado A, Grado B.
+
+524
+00:37:53,397 --> 00:37:55,899
+Es obvio que estos son superfalsos.
+
+525
+00:37:56,775 --> 00:37:58,068
+¿En serio?
+
+526
+00:37:58,151 --> 00:38:02,406
+Son imitaciones que ni siquiera
+intentan parecer originales.
+
+527
+00:38:05,742 --> 00:38:08,370
+Solo hay una razón
+para que te regalen algo así.
+
+528
+00:38:08,870 --> 00:38:12,541
+Humillarte.
+
+529
+00:38:17,129 --> 00:38:18,880
+- Yo...
+- Bebamos un trago.
+
+530
+00:38:18,964 --> 00:38:20,590
+<i>Seguro tenías otro par</i>
+
+531
+00:38:21,133 --> 00:38:22,342
+<i>igual a estos,</i>
+
+532
+00:38:22,426 --> 00:38:26,054
+<i>pero los tuyos parecían originales.</i>
+
+533
+00:38:27,180 --> 00:38:28,557
+- Yo...
+- <i>Pero...</i>
+
+534
+00:38:28,640 --> 00:38:30,142
+<i>es una pena.</i>
+
+535
+00:38:30,225 --> 00:38:31,935
+Lleva los míos a la cena.
+
+536
+00:38:33,020 --> 00:38:36,023
+<i>Creo que encontré una verdadera amiga.</i>
+
+537
+00:38:36,648 --> 00:38:37,649
+Con permiso.
+
+538
+00:39:12,642 --> 00:39:14,895
+Kang Ji-won es increíble.
+
+539
+00:39:14,978 --> 00:39:17,272
+¿Por qué vino? No tiene amigos aquí.
+
+540
+00:39:17,355 --> 00:39:19,024
+Debe haber venido a comer.
+
+541
+00:39:19,107 --> 00:39:21,318
+¿La viste? Parece pobre.
+
+542
+00:39:26,865 --> 00:39:28,825
+Kang Ji-won es increíble.
+
+543
+00:39:28,909 --> 00:39:30,994
+¿Por qué vino? No tiene amigos aquí.
+
+544
+00:39:31,078 --> 00:39:32,579
+Debe haber venido a presumir.
+
+545
+00:39:32,662 --> 00:39:34,915
+¿La viste? Tiene todo nuevo.
+
+546
+00:39:34,998 --> 00:39:38,335
+¿Por qué hablas como si fueras de Seúl?
+Suenas rara.
+
+547
+00:39:38,543 --> 00:39:41,338
+¿Cómo es que sigue siendo amiga de Su-min?
+
+548
+00:39:41,421 --> 00:39:42,547
+¿No es obvio?
+
+549
+00:39:42,631 --> 00:39:46,134
+Su-min es demasiado amable con ella.
+
+550
+00:39:46,218 --> 00:39:48,553
+¡Se hace la amiga para robarle todo!
+
+551
+00:39:48,637 --> 00:39:50,514
+La odio.
+
+552
+00:39:50,597 --> 00:39:52,224
+Es increíble.
+
+553
+00:39:53,683 --> 00:39:56,728
+Su-min es demasiado buena.
+
+554
+00:39:57,187 --> 00:39:58,814
+Deberíamos ocuparnos de ella.
+
+555
+00:39:58,897 --> 00:40:01,983
+Desde la secundaria, Ji-won...
+
+556
+00:40:02,067 --> 00:40:03,443
+Ye-ji, espera.
+
+557
+00:40:04,486 --> 00:40:05,570
+¿Qué?
+
+558
+00:40:05,654 --> 00:40:07,697
+Ji-won no estaba en su asiento.
+
+559
+00:40:49,781 --> 00:40:51,449
+¿Estuviste aquí todo el tiempo?
+
+560
+00:40:52,200 --> 00:40:54,911
+- ¿Por qué fingiste que no estabas?
+- Bueno...
+
+561
+00:40:55,412 --> 00:40:56,997
+Yo entré primero.
+
+562
+00:40:57,080 --> 00:40:59,332
+¿Tenía que salir a saludarte?
+
+563
+00:41:10,719 --> 00:41:12,721
+No se preocupen por mi. Sigan hablando.
+
+564
+00:41:12,804 --> 00:41:14,055
+Yo también quiero saber.
+
+565
+00:41:14,139 --> 00:41:17,017
+¿Qué le hice a Su-min en la secundaria?
+
+566
+00:41:18,518 --> 00:41:19,519
+¿No lo sabes?
+
+567
+00:41:19,603 --> 00:41:22,105
+Querías y copiabas todo lo que ella tenía.
+
+568
+00:41:22,355 --> 00:41:24,941
+¿Acaso no te copiaste de Su-min
+con esos aretes?
+
+569
+00:41:28,862 --> 00:41:29,863
+¿Estos?
+
+570
+00:41:30,530 --> 00:41:32,699
+Su-min me los regaló.
+
+571
+00:41:40,415 --> 00:41:41,541
+Pero eran falsos.
+
+572
+00:41:42,125 --> 00:41:43,251
+Era demasiado obvio.
+
+573
+00:41:44,211 --> 00:41:46,463
+{\an8}Así que me compré los originales.
+
+574
+00:41:46,546 --> 00:41:49,132
+Pero igual son los mismos, ¿no?
+
+575
+00:41:50,926 --> 00:41:52,135
+Quiero saber.
+
+576
+00:41:53,553 --> 00:41:56,056
+¿Qué más quería de ella?
+
+577
+00:41:56,806 --> 00:41:58,350
+¡A un chico!
+
+578
+00:41:58,433 --> 00:42:02,562
+¿Cómo se llama? ¡Park Min-hwan!
+Escuché que estabas interesada en él.
+
+579
+00:42:02,979 --> 00:42:04,564
+La gente no cambia.
+
+580
+00:42:04,648 --> 00:42:08,443
+Su-min salía con Eun-ho en la secundaria,
+y tú los separaste.
+
+581
+00:42:10,487 --> 00:42:13,114
+¿Le dije a Su-min que dejara a Eun-ho?
+
+582
+00:42:14,032 --> 00:42:15,408
+¿Estaban saliendo?
+
+583
+00:42:16,534 --> 00:42:18,870
+¿A Su-min le gusta Min-hwan?
+
+584
+00:42:19,412 --> 00:42:21,122
+Te recomendó para un trabajo
+
+585
+00:42:21,206 --> 00:42:24,167
+en una empresa como U&K,
+y tú le robaste a su hombre.
+
+586
+00:42:24,251 --> 00:42:25,752
+Te pasaste de la raya.
+
+587
+00:42:27,045 --> 00:42:29,422
+No soporto nada de esto.
+
+588
+00:42:31,049 --> 00:42:32,634
+- ¿Qué dijiste?
+- Sí.
+
+589
+00:42:33,760 --> 00:42:37,514
+Si vas a ser mala
+luego de oír un lado de la historia,
+
+590
+00:42:37,597 --> 00:42:40,308
+al menos intenta
+verificar los hechos primero.
+
+591
+00:42:43,937 --> 00:42:44,938
+Escuchen.
+
+592
+00:42:47,065 --> 00:42:48,775
+MARKETING DE ALIMENTOS U&K
+SUBGERENTE KANG JI-WON
+
+593
+00:42:48,858 --> 00:42:50,735
+Soy subgerente en U&K.
+
+594
+00:42:51,861 --> 00:42:53,947
+Los subcontratados
+también tienen tarjetas.
+
+595
+00:42:54,030 --> 00:42:55,991
+¿Qué es esto? ¿Cómo podemos creerte?
+
+596
+00:42:56,074 --> 00:42:59,494
+Trabajo allí hace siete años.
+¿Cuándo entró Su-min?
+
+597
+00:43:00,787 --> 00:43:04,749
+Recuerdo haberla recomendado
+en mi segundo año como subgerente.
+
+598
+00:43:05,125 --> 00:43:07,669
+- ¿Hará un año?
+- Es cierto.
+
+599
+00:43:07,752 --> 00:43:11,214
+Le pregunté por su carta de presentación
+el año pasado.
+
+600
+00:43:13,008 --> 00:43:14,384
+Lo más extraño
+
+601
+00:43:14,884 --> 00:43:16,261
+es lo de Park Min-hwan.
+
+602
+00:43:16,720 --> 00:43:18,555
+Es mi novio.
+
+603
+00:43:23,601 --> 00:43:24,978
+PARK MIN-HWAN
+
+604
+00:43:25,061 --> 00:43:25,895
+ALTAVOZ
+
+605
+00:43:32,569 --> 00:43:33,945
+<i>Hola, cariño.</i>
+
+606
+00:43:34,029 --> 00:43:36,323
+Estoy en mi reunión escolar. ¿Me llamaste?
+
+607
+00:43:37,240 --> 00:43:38,533
+¿Qué?
+
+608
+00:43:38,616 --> 00:43:41,369
+Quería que te divirtieras,
+así que no llamé.
+
+609
+00:43:41,453 --> 00:43:42,787
+<i>Quizá llamé por error.</i>
+
+610
+00:43:44,247 --> 00:43:47,125
+Claro. Está bien.
+
+611
+00:43:47,208 --> 00:43:49,586
+Saluda a mis amigas.
+
+612
+00:43:51,421 --> 00:43:52,422
+¿Amigas?
+
+613
+00:43:55,842 --> 00:43:57,177
+Hola.
+
+614
+00:43:57,260 --> 00:44:01,264
+Hola, somos amigas de Ji-won.
+
+615
+00:44:01,348 --> 00:44:04,100
+¿Eres el novio de Ji-won?
+
+616
+00:44:04,184 --> 00:44:07,437
+Hola, soy el novio de Ji-won.
+Park Min-hwan.
+
+617
+00:44:07,520 --> 00:44:10,482
+No sabía que Ji-won
+tenía otras amigas aparte de Su-min.
+
+618
+00:44:10,899 --> 00:44:12,901
+Cuiden a Ji-won por mí.
+
+619
+00:44:12,984 --> 00:44:14,069
+Debería haber...
+
+620
+00:44:14,152 --> 00:44:15,570
+¿Hola? ¿Hola?
+
+621
+00:44:18,406 --> 00:44:19,407
+¿Qué fue eso?
+
+622
+00:44:23,161 --> 00:44:24,371
+¿Suficiente?
+
+623
+00:44:42,180 --> 00:44:44,391
+¡Ji-won!
+
+624
+00:44:46,684 --> 00:44:48,645
+- ¿Adónde vas?
+- Tú...
+
+625
+00:44:48,728 --> 00:44:49,979
+¡Oye, Kang Ji-won!
+
+626
+00:44:53,233 --> 00:44:55,110
+Sí, está bien.
+
+627
+00:44:55,193 --> 00:44:56,653
+Pero, en la secundaria,
+
+628
+00:44:56,736 --> 00:44:59,239
+¿por qué le dijiste que dejara a su novio?
+
+629
+00:45:11,418 --> 00:45:13,128
+¡Basta, chicos!
+
+630
+00:45:13,211 --> 00:45:16,798
+No deberían atormentar
+a sus amigos. ¡Basta!
+
+631
+00:45:16,881 --> 00:45:17,882
+¡Qué sucia!
+
+632
+00:45:20,135 --> 00:45:22,303
+Casi lo olvido.
+
+633
+00:45:23,638 --> 00:45:25,098
+Qué extraño.
+
+634
+00:45:26,015 --> 00:45:28,601
+Me gustaba Eun-ho.
+
+635
+00:45:28,685 --> 00:45:30,770
+Su-min nunca salió con él.
+
+636
+00:45:34,482 --> 00:45:35,692
+¿Saliste con Eun-ho?
+
+637
+00:45:45,118 --> 00:45:46,119
+Yo...
+
+638
+00:45:51,624 --> 00:45:54,919
+Lo siento, Ji-won.
+No pude decírtelo antes.
+
+639
+00:45:55,503 --> 00:45:57,213
+Sé que te gustaba Eun-ho.
+
+640
+00:45:57,797 --> 00:45:59,924
+¿Cómo iba a decirte que éramos novios?
+
+641
+00:46:04,471 --> 00:46:08,016
+¿De qué hablas?
+Dijiste que yo te dije que lo dejaras.
+
+642
+00:46:08,099 --> 00:46:09,767
+¿No debería haberlo sabido?
+
+643
+00:46:13,646 --> 00:46:15,732
+Me equivoqué.
+
+644
+00:46:15,815 --> 00:46:18,776
+Era una relación secreta,
+así que no te lo dije.
+
+645
+00:46:18,902 --> 00:46:21,196
+¿Lo sabía o no?
+
+646
+00:46:24,657 --> 00:46:27,160
+Ya basta, Ji-won, la asustas.
+
+647
+00:46:27,243 --> 00:46:29,746
+No tienes amigos por tu carácter.
+
+648
+00:46:29,829 --> 00:46:33,249
+- ¿Por qué eres quisquillosa?
+- Tú hiciste lo mismo y yo también.
+
+649
+00:46:34,751 --> 00:46:36,711
+En aquel entonces no hice preguntas.
+
+650
+00:46:36,794 --> 00:46:39,797
+¿Olvidaste cómo me atormentaste
+durante tres años?
+
+651
+00:46:41,049 --> 00:46:44,302
+Incluso ahora que te mostré mi tarjeta
+y te expliqué todo,
+
+652
+00:46:44,385 --> 00:46:46,346
+dices que no te gusta mi carácter.
+
+653
+00:46:46,888 --> 00:46:48,640
+¿Y si tu tarjeta es falsa?
+
+654
+00:46:49,224 --> 00:46:51,476
+¿Como el bolso falso que trajiste?
+
+655
+00:46:53,102 --> 00:46:55,021
+¿Qué demonios dices?
+
+656
+00:46:55,104 --> 00:46:57,232
+¡Fui a la tienda
+
+657
+00:46:57,315 --> 00:47:00,818
+y la pagué en 12 cuotas
+con mi primer sueldo!
+
+658
+00:47:01,236 --> 00:47:02,278
+O no.
+
+659
+00:47:03,279 --> 00:47:05,406
+Qué curioso.
+
+660
+00:47:05,990 --> 00:47:08,368
+Supones que es falsa
+
+661
+00:47:08,451 --> 00:47:10,537
+y no tienes pruebas.
+
+662
+00:47:11,120 --> 00:47:12,914
+¿Qué esperas que te diga?
+
+663
+00:47:13,456 --> 00:47:15,959
+¡Deberías disculparte
+y decir que lo sientes!
+
+664
+00:47:16,042 --> 00:47:17,794
+¡Tú deberías disculparte conmigo!
+
+665
+00:47:21,256 --> 00:47:22,465
+Le creíste a Su-min
+
+666
+00:47:22,549 --> 00:47:24,634
+y me acosaste durante tres años.
+
+667
+00:47:25,677 --> 00:47:28,638
+¿Quieres seguir con lo mismo
+en una reunión de secundaria?
+
+668
+00:47:32,392 --> 00:47:33,643
+Te entiendo.
+
+669
+00:47:33,726 --> 00:47:37,855
+No quieres disculparte
+porque solo querías acosarme. ¿Verdad?
+
+670
+00:47:37,981 --> 00:47:39,482
+¿Qué dices?
+
+671
+00:47:40,191 --> 00:47:43,444
+Soy una persona muy sincera.
+
+672
+00:47:43,987 --> 00:47:47,615
+Dices que Su-min y Eun-ho
+no salieron, ¿verdad?
+
+673
+00:47:47,949 --> 00:47:51,452
+Pero los involucrados dicen que sí.
+¿Quién eres para decir que no?
+
+674
+00:47:54,330 --> 00:47:56,416
+No recuerdo mucho...
+
+675
+00:48:12,932 --> 00:48:14,642
+Pero puedo decirte una cosa.
+
+676
+00:48:19,772 --> 00:48:21,274
+Su-min y yo
+
+677
+00:48:24,569 --> 00:48:25,612
+nunca salimos.
+
+678
+00:48:41,919 --> 00:48:44,464
+Ha pasado mucho tiempo, Ji-won.
+
+679
+00:48:50,011 --> 00:48:51,638
+<i>¿De qué estás hablando?</i>
+
+680
+00:48:54,766 --> 00:48:55,767
+Vete.
+
+681
+00:48:59,646 --> 00:49:01,856
+- Lo siento.
+- Explícame.
+
+682
+00:49:02,482 --> 00:49:03,733
+Es una promesa.
+
+683
+00:49:03,816 --> 00:49:05,026
+Cuando la rompes,
+
+684
+00:49:05,109 --> 00:49:08,571
+debe ser por una buena razón.
+No lo entiendo.
+
+685
+00:49:09,781 --> 00:49:11,866
+¿Cómo podrías entenderme tú?
+
+686
+00:49:12,283 --> 00:49:14,077
+No puedo explicarlo.
+
+687
+00:49:14,952 --> 00:49:16,079
+No está bien,
+
+688
+00:49:17,455 --> 00:49:18,831
+así que no puedo hacerlo.
+
+689
+00:49:21,167 --> 00:49:22,627
+Ji-hyuk,
+
+690
+00:49:22,710 --> 00:49:26,047
+heredarás el Grupo U&K.
+
+691
+00:49:26,130 --> 00:49:29,092
+¿Eso le dirás a la gente como CEO
+
+692
+00:49:29,676 --> 00:49:31,886
+cuando tomes decisiones importantes?
+
+693
+00:49:31,969 --> 00:49:34,055
+¿Así es como dirigirás la empresa?
+
+694
+00:49:34,472 --> 00:49:37,809
+Si tomo el control,
+nadie me pedirá explicaciones.
+
+695
+00:49:42,397 --> 00:49:45,608
+Por más bueno que seas,
+
+696
+00:49:46,484 --> 00:49:50,029
+no puedes vencer a alguien
+que trabaja a la par de otro.
+
+697
+00:49:50,113 --> 00:49:51,989
+Por tradición, un gran hombre
+
+698
+00:49:52,615 --> 00:49:54,701
+debe tener pareja.
+
+699
+00:49:54,784 --> 00:49:56,744
+Una gran pareja.
+
+700
+00:49:58,454 --> 00:49:59,497
+¿Eso crees?
+
+701
+00:49:59,580 --> 00:50:01,124
+Sí, incluso tu padre...
+
+702
+00:50:07,046 --> 00:50:09,132
+Los jóvenes de hoy
+
+703
+00:50:09,215 --> 00:50:12,468
+dicen tonterías
+y creen que es mejor no casarse.
+
+704
+00:50:12,552 --> 00:50:13,803
+¿Tú piensas lo mismo?
+
+705
+00:50:14,554 --> 00:50:15,555
+El matrimonio...
+
+706
+00:50:17,140 --> 00:50:18,182
+Yo quiero casarme.
+
+707
+00:50:20,184 --> 00:50:21,853
+Me gusta alguien.
+
+708
+00:50:23,896 --> 00:50:25,148
+Pero...
+
+709
+00:50:26,899 --> 00:50:27,900
+eso es todo.
+
+710
+00:50:34,365 --> 00:50:35,908
+¿La conozco?
+
+711
+00:50:37,869 --> 00:50:40,455
+¿De qué familia es? ¿Cómo se llama?
+
+712
+00:50:43,750 --> 00:50:45,042
+Ella no lo sabe.
+
+713
+00:50:49,255 --> 00:50:50,590
+¿Cómo?
+
+714
+00:50:51,883 --> 00:50:54,260
+Estudié negocios como me pediste.
+
+715
+00:50:54,343 --> 00:50:56,262
+Trabajé en la sucursal de EE.UU.
+
+716
+00:50:56,345 --> 00:50:59,682
+Me uní al equipo de marketing
+cuando me pediste que regresara.
+
+717
+00:50:59,766 --> 00:51:02,143
+Hice todo lo que me pediste, abuelo.
+
+718
+00:51:02,643 --> 00:51:03,853
+Esta vez,
+
+719
+00:51:05,438 --> 00:51:06,606
+confía en mi.
+
+720
+00:51:06,689 --> 00:51:08,608
+¿Cómo te atreves?
+
+721
+00:51:08,691 --> 00:51:10,568
+¿Pensaste que no me enteraría?
+
+722
+00:51:10,651 --> 00:51:11,652
+¿Cuándo has hecho
+
+723
+00:51:11,736 --> 00:51:15,072
+algo que no querías?
+
+724
+00:51:15,156 --> 00:51:18,534
+Hiciste lo que te dije
+porque no tenías sueños propios.
+
+725
+00:51:18,618 --> 00:51:20,036
+Siempre fue así.
+
+726
+00:51:21,120 --> 00:51:23,998
+Deberías saber
+que ahora también haré lo que quiera.
+
+727
+00:51:24,081 --> 00:51:25,333
+¿Qué? Pequeño...
+
+728
+00:51:37,595 --> 00:51:39,889
+Te lo estoy contando.
+
+729
+00:51:42,725 --> 00:51:44,060
+Me gusta alguien.
+
+730
+00:51:47,480 --> 00:51:49,899
+No quiero ningún problema con las mujeres.
+
+731
+00:52:15,132 --> 00:52:18,261
+¿Quién es la mujer de la que se enamoró?
+
+732
+00:52:18,970 --> 00:52:20,179
+Averígualo.
+
+733
+00:52:20,763 --> 00:52:24,392
+Jamás había cometido un error.
+
+734
+00:52:24,475 --> 00:52:26,519
+Eso es lo que más me asusta.
+
+735
+00:52:26,602 --> 00:52:30,356
+La gente no da una vuelta de página
+solo porque sí.
+
+736
+00:52:30,940 --> 00:52:34,777
+Es cierto.
+Él no es de los hombres que insisten
+
+737
+00:52:35,528 --> 00:52:36,654
+con las mujeres.
+
+738
+00:52:38,114 --> 00:52:39,115
+Así que...
+
+739
+00:52:40,283 --> 00:52:41,701
+¿Y el presidente Oh?
+
+740
+00:52:42,201 --> 00:52:43,870
+No puedo controlar a mi hijo.
+
+741
+00:52:43,953 --> 00:52:46,163
+¿Cómo podría controlar a mi nieto?
+
+742
+00:52:47,456 --> 00:52:49,792
+Además, si no puede, no puede.
+
+743
+00:52:51,586 --> 00:52:53,629
+Tras la muerte de su madre,
+
+744
+00:52:54,714 --> 00:52:56,382
+pasó mucho tiempo sin hablar.
+
+745
+00:52:58,342 --> 00:53:00,386
+¿Por qué de repente está así?
+
+746
+00:53:02,096 --> 00:53:04,056
+- Bueno...
+- Averígualo.
+
+747
+00:53:05,099 --> 00:53:07,643
+Cuanto antes lo cortemos de raíz, mejor.
+
+748
+00:53:20,281 --> 00:53:21,449
+Qué difícil.
+
+749
+00:53:22,283 --> 00:53:24,076
+<i>Hay una reunión de secundaria.</i>
+
+750
+00:53:24,160 --> 00:53:25,494
+¿Una reunión de secundaria?
+
+751
+00:53:27,580 --> 00:53:29,582
+¿Acaso te conozco?
+
+752
+00:53:29,665 --> 00:53:32,585
+No, pero pensé que deberías saberlo.
+
+753
+00:53:33,961 --> 00:53:35,212
+¿Por qué me lo dices?
+
+754
+00:53:35,296 --> 00:53:36,797
+¿Recuerdas a Kang Ji-won?
+
+755
+00:53:39,342 --> 00:53:42,053
+Sé que hubo un malentendido
+en aquel entonces.
+
+756
+00:53:42,136 --> 00:53:45,389
+Si te parece,
+sería bueno aclarar las cosas.
+
+757
+00:53:45,473 --> 00:53:46,891
+¿Un malentendido?
+
+758
+00:53:46,974 --> 00:53:50,353
+No, espera. ¿Para quién sería bueno?
+
+759
+00:53:52,229 --> 00:53:54,065
+Ayudaría a Kang Ji-won.
+
+760
+00:53:55,399 --> 00:53:56,567
+Por favor.
+
+761
+00:54:08,871 --> 00:54:10,915
+GOSEULJUNG
+
+762
+00:54:18,631 --> 00:54:20,633
+- Sí.
+- <i>Señor, ¿dónde está?</i>
+
+763
+00:54:20,716 --> 00:54:22,885
+- <i>¿Está en camino?</i>
+- Voy en camino.
+
+764
+00:54:29,850 --> 00:54:32,353
+¿Ese no es Baek Eun-ho?
+
+765
+00:54:32,436 --> 00:54:35,189
+- ¡Es él!
+- Está muy bien.
+
+766
+00:54:35,773 --> 00:54:37,733
+¿Por qué no atendiste mis llamadas?
+
+767
+00:54:37,817 --> 00:54:39,944
+Espera, ¿qué haces aquí?
+
+768
+00:54:40,027 --> 00:54:41,404
+En realidad, no importa.
+
+769
+00:54:41,988 --> 00:54:42,989
+¿Acabas de decir
+
+770
+00:54:44,115 --> 00:54:46,409
+que Su-min y tú nunca salieron?
+
+771
+00:54:50,621 --> 00:54:51,664
+Por cierto,
+
+772
+00:54:53,457 --> 00:54:55,376
+¿yo te gustaba?
+
+773
+00:54:57,336 --> 00:54:59,880
+¿Y por qué me lastimaste
+en aquel entonces?
+
+774
+00:55:13,436 --> 00:55:16,480
+{\an8}GOSEULJUNG
+
+775
+00:55:52,349 --> 00:55:53,768
+¿Se vistió así
+
+776
+00:55:54,560 --> 00:55:56,187
+para ir a la reunión?
+
+777
+00:56:18,793 --> 00:56:19,877
+Espera.
+
+778
+00:56:22,713 --> 00:56:23,964
+Por favor.
+
+779
+00:56:24,048 --> 00:56:25,883
+Lo que quise decir es...
+
+780
+00:56:31,680 --> 00:56:34,016
+Lo lamento.
+
+781
+00:56:35,935 --> 00:56:37,269
+Déjame limpiarte la mano.
+
+782
+00:56:46,320 --> 00:56:47,488
+¿Qué estoy haciendo?
+
+783
+00:56:53,911 --> 00:56:55,162
+Me tengo que ir.
+
+784
+00:56:57,790 --> 00:57:00,042
+Sí. Bueno.
+
+785
+00:57:01,252 --> 00:57:03,712
+No.
+
+786
+00:57:03,796 --> 00:57:06,966
+Quiero decirte algo.
+
+787
+00:57:07,049 --> 00:57:08,467
+Nunca me gustaste.
+
+788
+00:57:10,219 --> 00:57:11,220
+Eso fue...
+
+789
+00:57:12,596 --> 00:57:14,014
+un error.
+
+790
+00:57:21,021 --> 00:57:22,022
+Yo...
+
+791
+00:57:23,941 --> 00:57:25,276
+¡estaba enamorado de ti!
+
+792
+00:58:19,205 --> 00:58:24,168
+{\an8}<i>De ahora en más,</i>
+<i>dejaré las formalidades de lado.</i>
+
+793
+00:58:24,251 --> 00:58:25,794
+{\an8}<i>Eres muy bonita.</i>
+
+794
+00:58:25,878 --> 00:58:27,671
+{\an8}- Lo siento.
+- Lo volvió loco.
+
+795
+00:58:27,796 --> 00:58:29,215
+{\an8}Estás muy bella.
+
+796
+00:58:29,298 --> 00:58:32,092
+{\an8}Ustedes se burlaban de ella, ¡no de mí!
+
+797
+00:58:32,176 --> 00:58:35,804
+{\an8}<i>No te preocupes, mi media naranja.</i>
+<i>Esta vez, no lo dejaré pasar.</i>
+
+798
+00:58:36,513 --> 00:58:39,934
+{\an8}<i>Sr. Yu, qué lindo es verlo sonreír.</i>
+
+799
+00:58:40,017 --> 00:58:42,478
+{\an8}Creo que le gustas a Yu Ji-hyuk.
+
+800
+00:58:43,312 --> 00:58:45,564
+{\an8}Sí, hicieron un escándalo por ellos.
+
+801
+00:58:45,648 --> 00:58:46,982
+{\an8}<i>¿Debería decirle a Ji-won</i>
+
+802
+00:58:47,066 --> 00:58:50,194
+{\an8}<i>que Min-hwan la engañará con Su-min</i>
+<i>y la lastimará?</i>
+
+803
+00:58:54,073 --> 00:58:56,075
+{\an8}Traducido por: Marianela Farina
+
